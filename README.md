@@ -13,3 +13,5 @@
 ### Kopsavilkums
 
 Esošie basketbola spēļu prognožu rīki pārsvarā izmanto mašīnmācīšanās un datu analītikas algoritmus, kas analizē vēsturiskos maču datus, komandu formu, mājas un viesu spēļu bilanci, spēles tempu un statistiskos rādītājus. Dati tiek automātiski apkopoti un regulāri atjaunoti, lai uzlabotu prognožu precizitāti. Lietotājs visbiežāk iegūst uzvaras varbūtību procentos, īsu spēles vai komandas snieguma analīzi un dažkārt arī ieteikumu par likmju iespējām. Šo risinājumu priekšrocības ir datu apjoms, ātrums un spēja identificēt statistiskas sakarības, kas basketbolā palīdz novērtēt komandu formu un spēles stilu. Trūkumi — prognozes parasti ir virspusējas, bez padziļinātas spēlētāju analīzes vai vizuālas datu attēlošanas, un tās galvenokārt tiek izmantotas kā informatīvs palīglīdzeklis, nevis pilnvērtīgs stratēģisks rīks. Kopumā šie risinājumi piedāvā ērtu veidu, kā sekot līdzi basketbola statistikai un rezultātu tendencēm, kas var tikt izmantotas kā pamats turpmākai analīzei vai lēmumu pieņemšanai.
+
+<img width="350" height="1280" alt="image" src="https://github.com/user-attachments/assets/a38a9f09-4967-4ac0-b37d-c2847216e552" />
