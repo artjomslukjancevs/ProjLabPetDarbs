@@ -1,5 +1,6 @@
+## 🏀 Problēmsituācija: Basketbola spēles rezultāta prognozēšana
 
-## 🏀 Līdzīgo risinājumu novērojumu tabula
+## Līdzīgo risinājumu novērojumu tabula
 
 | Platforma / Risinājums           | Algoritms / Pieeja                         | Datu avots un apstrāde                                       | Ko iegūst lietotājs                          | Priekšrocības                                                                 | Trūkumi                                                                 |
 |----------------------------------|--------------------------------------------|--------------------------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------|
@@ -25,4 +26,5 @@ Esošie basketbola spēļu prognožu rīki pārsvarā izmanto mašīnmācīšan�
 | Datubāze | SQLAlchemy     |
 | Serveris  | MS Azure    |
 | Infografika | ChartJS |
+
 
