@@ -18,10 +18,11 @@ Esošie basketbola spēļu prognožu rīki pārsvarā izmanto mašīnmācīšan�
 <img width="407" height="1485" alt="bLNDYjim4BuR_0uYbq9XeRsQPTdsi53QG23RindRaqGRMJBIU4DQ-aHzZJvOHtOiQnqRifT4ywVlq_pvqH5OQcible8x8XMWrCPY9KkIHgz_h4s5AatSKUe6BDH2IOrqRb0OImSJMqe5pdqXih9e2R-LHc_bBnIVqYHDEfluwT2AtsaYHCkdN5QPa9h4_Vtc-yF3eDPGOoOSNwFtNjTmv" src="https://github.com/user-attachments/assets/c4302f85-8d8b-48db-b73b-616b23dd6e56" />
 
 ## Tehnoloģiju steks
-| Problēma    | Rīsinājums |
+| Problēma    | Risinājums |
 | -------- | ------- |
 | Backend | Python Flask    |
 | Frontend  | HTML, JScript    |
 | Datubāze | SQLAlchemy     |
 | Serveris  | MS Azure    |
 | Infografika | ChartJS |
+
