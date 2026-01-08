@@ -16,15 +16,16 @@
 Esošie basketbola spēļu prognožu rīki pārsvarā izmanto mašīnmācīšanās un datu analītikas algoritmus, kas analizē vēsturiskos maču datus, komandu formu, mājas un viesu spēļu bilanci, spēles tempu un statistiskos rādītājus. Dati tiek automātiski apkopoti un regulāri atjaunoti, lai uzlabotu prognožu precizitāti. Lietotājs visbiežāk iegūst uzvaras varbūtību procentos, īsu spēles vai komandas snieguma analīzi un dažkārt arī ieteikumu par likmju iespējām. Šo risinājumu priekšrocības ir datu apjoms, ātrums un spēja identificēt statistiskas sakarības, kas basketbolā palīdz novērtēt komandu formu un spēles stilu. Trūkumi — prognozes parasti ir virspusējas, bez padziļinātas spēlētāju analīzes vai vizuālas datu attēlošanas, un tās galvenokārt tiek izmantotas kā informatīvs palīglīdzeklis, nevis pilnvērtīgs stratēģisks rīks. Kopumā šie risinājumi piedāvā ērtu veidu, kā sekot līdzi basketbola statistikai un rezultātu tendencēm, kas var tikt izmantotas kā pamats turpmākai analīzei vai lēmumu pieņemšanai.
 
 ## Konceptu modelis
-<img width="407" height="1485" alt="bLNDYjim4BuR_0uYbq9XeRsQPTdsi53QG23RindRaqGRMJBIU4DQ-aHzZJvOHtOiQnqRifT4ywVlq_pvqH5OQcible8x8XMWrCPY9KkIHgz_h4s5AatSKUe6BDH2IOrqRb0OImSJMqe5pdqXih9e2R-LHc_bBnIVqYHDEfluwT2AtsaYHCkdN5QPa9h4_Vtc-yF3eDPGOoOSNwFtNjTmv" src="https://github.com/user-attachments/assets/c4302f85-8d8b-48db-b73b-616b23dd6e56" />
+<img width="1441" height="432" alt="konceptModelis" src="https://github.com/user-attachments/assets/c28dc7df-2b15-4cb4-9623-f0bd67c8f216" />
+
 
 ## Tehnoloģiju steks
 | Problēma    | Risinājums |
 | -------- | ------- |
-| Backend | Python Flask    |
-| Frontend  | HTML, JScript    |
+| Backend | Python Flask, REST API    |
+| Frontend  | HTML, CSS, JScript    |
 | Datubāze | SQLAlchemy     |
 | Serveris  | MS Azure    |
-| Infografika | ChartJS |
+
 
 
