@@ -5,9 +5,13 @@ from models import db, Team, Match, FutureMatch
 from ml.predict import predict_future_match
 from flask import render_template
 from models import UserPrediction
+from flask import Flask, send_from_directory
 
-app = Flask(__name__)
-CORS(app)
+app = Flask(
+    __name__,
+    template_folder=".",
+    static_folder="static"
+)
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(BASE_DIR, 'database.db')
