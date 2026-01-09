@@ -25,7 +25,8 @@ Esošie basketbola spēļu prognožu rīki pārsvarā izmanto mašīnmācīšan�
 | Backend | Python Flask, REST API    |
 | Frontend  | HTML, CSS, JScript    |
 | Datubāze | SQLAlchemy     |
-| Serveris  | MS Azure    |
+| Deploy (PaaS)  | Render    |
+
 
 
 
