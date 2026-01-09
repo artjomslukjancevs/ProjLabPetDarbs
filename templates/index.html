@@ -11,6 +11,8 @@
 </head>
 <body>
 
+<div class="mobile-toggle" id="mobileToggle">☰</div>
+
 <div class="background"></div>
 <div class="orb orb-1"></div>
 <div class="orb orb-2"></div>
@@ -528,6 +530,52 @@
     }
 }
 
+/* ===== MOBILE SIDEBAR FIX ===== */
+
+.mobile-toggle {
+    display: none;
+    position: fixed;
+    top: 14px;
+    left: 14px;
+    font-size: 26px;
+    cursor: pointer;
+    z-index: 1100;
+    color: #fff;
+}
+
+/* sidebar по умолчанию */
+.sidebar {
+    overflow-y: auto;
+}
+
+/* MOBILE */
+@media (max-width: 900px) {
+
+    .mobile-toggle {
+        display: block;
+    }
+
+    .sidebar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        z-index: 1000;
+        transform: translateX(-100%);
+        transition: transform 0.3s ease;
+    }
+
+    .sidebar.show {
+        transform: translateX(0);
+    }
+
+    .main-content {
+        margin-left: 0;
+        padding-top: 70px;
+    }
+}
+
+
 </style>
 
 <script>
@@ -546,6 +594,16 @@ document.querySelectorAll('.nav-link[data-section]').forEach(link => {
     });
 });
 </script>
+
+<script>
+const toggle = document.getElementById('mobileToggle');
+const sidebar = document.getElementById('sidebar');
+
+toggle.addEventListener('click', () => {
+    sidebar.classList.toggle('show');
+});
+</script>
+
 
 </body>
 </html>
