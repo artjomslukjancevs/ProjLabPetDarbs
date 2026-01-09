@@ -27,6 +27,8 @@ Esošie basketbola spēļu prognožu rīki pārsvarā izmanto mašīnmācīšan�
 | Datubāze | SQLAlchemy     |
 | Deploy (PaaS)  | Render    |
 
+## Stenda referāts
+![plakats](https://github.com/user-attachments/assets/ea65032f-73dc-437b-9a36-3de72b7cf9b5)
 
 
 
